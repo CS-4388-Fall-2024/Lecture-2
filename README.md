@@ -46,4 +46,4 @@ Your program should open in a web browser automatically.  If not, you can run it
 
 ## License
 
-Material for [CS 4388 Fall 2024](https://github.com/CS-4388-Fall-2024/Syllabus) by [Isayas Berhe Adhanom](https://isayasadhanom.me/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Adopted from material by Evan Suma Rosenberg.
+Material for [CS 4388 Fall 2024](https://github.com/CS-4388-Fall-2024/Syllabus) taught by [Isayas Berhe Adhanom](https://isayasadhanom.me/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). This course material has been adopted from course materials originally developed by [Evan Suma Rosenberg](https://cse.umn.edu/cs/evan-suma-rosenberg).
